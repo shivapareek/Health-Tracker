@@ -178,13 +178,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Express.js** - Fast web framework for Node.js
 - **Tailwind CSS** - Utility-first CSS framework
 
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/health-tracker)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/health-tracker)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/health-tracker)
-![GitHub license](https://img.shields.io/github/license/yourusername/health-tracker)
-
----
 
 Made with ❤️ for health enthusiasts who love data-driven insights!
