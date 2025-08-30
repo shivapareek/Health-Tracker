@@ -166,13 +166,6 @@ GET    /api/health/debug/latest     # Get latest 10 entries
 4. **Push to branch** (`git push origin feature/amazing-feature`)
 5. **Open Pull Request**
 
-
-## 📞 Support
-
-- **Documentation**: [Wiki Pages](https://github.com/yourusername/health-tracker/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/health-tracker/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/health-tracker/discussions)
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
